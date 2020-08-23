@@ -1,2 +1,2 @@
-# stellar-fundamental
+# stellar-lesson
 Stellarというブロックチェーンを用いた開発の基本的なノウハウをまとめた記事にて使用しています
