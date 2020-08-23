@@ -1,0 +1,23 @@
+{
+  "name": "stellar-lesson",
+  "version": "1.0.0",
+  "description": "Stellarというブロックチェーンを用いた開発の基本的なノウハウをまとめた記事にて使用しています",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MorijunHack/stellar-lesson.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MorijunHack/stellar-lesson/issues"
+  },
+  "homepage": "https://github.com/MorijunHack/stellar-lesson#readme",
+  "dependencies": {
+    "stellar-sdk": "^5.0.4"
+  }
+}
